@@ -1,16 +1,16 @@
 {
     "afternoon": [
         { "name": "Hochzeitstorte", "tags": ["vegan", "glutenfrei"] },
-        { "name": "TBA" },
+        { "name": "TBA" }
     ],
     "dinner": [
-        { "name": "TBA" },
+        { "name": "TBA" }
     ],
     "snacks": [
-        { "name": "TBA" },
+        { "name": "TBA" }
     ],
     "drinks": [
         { "name": "Wasser | still und laut" },
-        { "name": "TBA" },
+        { "name": "TBA" }
     ]
 }
